@@ -9,8 +9,11 @@ Create a private git repo and implement the following project.
 2. Integrate the react application with the following apis
 https://restcountries.com/#api-endpoints-v3
 3. Front End of React Application
+
 a) Application should launch with a select box. 
+
 b) Drop down of select box should be filled with the list of countries from the API called at step 2
+
 c) On select of a particular country application should display the following details of the selected country
    - Language of the country
    - Capital city of the country
