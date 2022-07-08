@@ -26,7 +26,7 @@ _**include this README and check if completed or explain why it isn't done**_
 > ```
 > 1. git clone <your repo url here>
 
- [ ] GitHub Action run in your private repo
+- [ ] GitHub Action run in your private repo
  
  ### Selection Criteria
 1. Make sure that checklist above is complete
